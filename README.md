@@ -20,3 +20,5 @@ Deliverables:
 1. GitHub Repository Link -> Submit to Canvas
 2. main.cpp file with all the code running
 3. 5-10 minute video explaining your code. It must be in this time frame.
+
+video link: https://drive.google.com/file/d/1QPpV3MLhI6yn8v2YVwpK81XhLU1V-i8b/view?usp=drivesdk
